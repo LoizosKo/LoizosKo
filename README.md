@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LoizosKo
+- 👋 Hi, I’m Loizos
 - 👀 I’m interested in coding (SQL, R, Python), blogging, and vlogging
 - 🌱 I’m currently learning scraping, sentiment analysis, and SQL
 - 💞️ I’m looking to collaborate on projects with Linkedin, Spotify, and Glassdor data
